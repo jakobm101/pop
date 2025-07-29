@@ -3,7 +3,6 @@ import Image from "next/image";
 import { Space_Mono } from "next/font/google";
 import styles from "@/styles/Home.module.css";
 
-
 const spaceMono = Space_Mono({
   weight: ["400", "700"],
   variable: "--font-space-mono",
